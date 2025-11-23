@@ -1,7 +1,4 @@
-
 import streamlit as st
-import google.generativeai as genai
-import os
 
 # Configure Gemini API
 # Ensure 'G-API' is set in Colab secrets or 'GOOGLE_API_KEY' in environment variables for deployment
